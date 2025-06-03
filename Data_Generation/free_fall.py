@@ -27,7 +27,7 @@ GRAVITY = (0, -1000)  # Gravity in Pymunk is in the negative y direction
 space.gravity = GRAVITY
 START_POSITION = (400, 750)  # Starting position of the body
 BACKGROUND_COLOR = (255, 255, 255)  # Background color for the simulation
-OBJECT_COLOR = (158, 247, 105)  # Color of the falling object
+OBJECT_COLOR = (255, 153, 255)  # Color of the falling object
 
 # Initialize the Falling Object
 body = pymunk.Body()
@@ -88,7 +88,7 @@ def create_video(total_frames):
     clip = ImageSequenceClip.ImageSequenceClip(frame_files, fps=FPS)
     
     # Write video file
-    output_filename = "free_fall_simulation_green_tennis.mp4"
+    output_filename = "free_fall_simulation_pink_tennis.mp4"
     clip.write_videofile(output_filename, codec='libx264')
     
     print(f"Video saved as: {output_filename}")
