@@ -26,14 +26,14 @@ def convert_coordinates(point):
 GRAVITY = (0, -1000)  # Gravity in Pymunk is in the negative y direction
 space.gravity = GRAVITY
 START_POSITION = (400, 750)  # Starting position of the body
-BACKGROUND_COLOR = (255, 255, 255)  # Background color for the simulation
-OBJECT_COLOR = (255, 153, 255)  # Color of the falling object
+BACKGROUND_COLOR = (143, 129, 122)  # Background color for the simulation
+OBJECT_COLOR = (146, 97, 35)   # Color of the falling object
 
 # Initialize the Falling Object
 body = pymunk.Body()
 body.position = START_POSITION
 shape = pymunk.Circle(body, 30)
-# shape = pymunk.poly.box(shape, (60, 60))  # Create a square shape instead of a circle
+# shape = pymunk.Poly.create_box(body, (60, 120))  # Create a square shape instead of a circle
 shape.density = 1
 space.add(body, shape)
 
@@ -44,7 +44,7 @@ space.add(flat_segment_body, flat_segment_shape)
 
 def game():
     frame_count = 0
-    max_frames = 300  # Record for ~10 seconds at 50 FPS
+    max_frames = 100  # Record for ~10 seconds at 50 FPS
     
     while frame_count < max_frames:
         for event in pygame.event.get():
@@ -57,7 +57,9 @@ def game():
         # Draw object
         x, y = convert_coordinates(body.position)
         pygame.draw.circle(display, OBJECT_COLOR, (int(x), int(y)), shape.radius)
-        
+        # vertices = [convert_coordinates(body.local_to_world(v)) for v in shape.get_vertices()]
+        # pygame.draw.polygon(display, OBJECT_COLOR, vertices)
+
         # Draw ground       
         pygame.draw.line(display, (0, 0, 0), (0, 650 - 3), (800, 650 - 3), 6)
         
@@ -88,7 +90,7 @@ def create_video(total_frames):
     clip = ImageSequenceClip.ImageSequenceClip(frame_files, fps=FPS)
     
     # Write video file
-    output_filename = "free_fall_simulation_pink_tennis.mp4"
+    output_filename = "free_fall_simulation_weenie.mp4"
     clip.write_videofile(output_filename, codec='libx264')
     
     print(f"Video saved as: {output_filename}")
