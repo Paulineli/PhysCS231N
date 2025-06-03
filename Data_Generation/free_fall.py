@@ -9,7 +9,7 @@ pygame.init()
 display = pygame.display.set_mode((800, 800))
 clock = pygame.time.Clock()
 space = pymunk.Space()
-FPS = 50
+FPS = 150
 
 # Create directory for frames for video generation
 frames_dir = "frames"
@@ -23,16 +23,22 @@ def convert_coordinates(point):
 """This part can be modified to generate different videos."""
 
 # Set up parameters for the simulation
-GRAVITY = (0, -1000)  # Gravity in Pymunk is in the negative y direction
+GRAVITY = (0, -3000)  # Gravity in Pymunk is in the negative y direction
 space.gravity = GRAVITY
 START_POSITION = (400, 750)  # Starting position of the body
-BACKGROUND_COLOR = (143, 129, 122)  # Background color for the simulation
-OBJECT_COLOR = (146, 97, 35)   # Color of the falling object
+BACKGROUND_COLOR = (255, 255, 255)  # Background color for the simulation
+OBJECT_COLOR =   (255, 0, 0)    # Color of the falling object
+
+# GRAVITY = (0, -1000)  # Gravity in Pymunk is in the negative y direction
+# space.gravity = GRAVITY
+# START_POSITION = (400, 750)  # Starting position of the body
+# BACKGROUND_COLOR = (143, 129, 122)  # Background color for the simulation
+# OBJECT_COLOR = (146, 97, 35)   # Color of the falling object
 
 # Initialize the Falling Object
 body = pymunk.Body()
 body.position = START_POSITION
-shape = pymunk.Circle(body, 30)
+shape = pymunk.Circle(body,60)
 # shape = pymunk.Poly.create_box(body, (60, 120))  # Create a square shape instead of a circle
 shape.density = 1
 space.add(body, shape)
@@ -44,7 +50,7 @@ space.add(flat_segment_body, flat_segment_shape)
 
 def game():
     frame_count = 0
-    max_frames = 100  # Record for ~10 seconds at 50 FPS
+    max_frames = 100  # number of recorded frames
     
     while frame_count < max_frames:
         for event in pygame.event.get():
@@ -62,7 +68,6 @@ def game():
 
         # Draw ground       
         pygame.draw.line(display, (0, 0, 0), (0, 650 - 3), (800, 650 - 3), 6)
-        
         pygame.display.update()
         
         # Save frame
@@ -87,10 +92,10 @@ def create_video(total_frames):
     frame_files = [os.path.join(frames_dir, f"frame_{i:04d}.png") for i in range(total_frames)]
     
     # Create video clip
-    clip = ImageSequenceClip.ImageSequenceClip(frame_files, fps=FPS)
+    clip = ImageSequenceClip.ImageSequenceClip(frame_files, fps=50)
     
     # Write video file
-    output_filename = "free_fall_simulation_weenie.mp4"
+    output_filename = "radiusx2.mp4"
     clip.write_videofile(output_filename, codec='libx264')
     
     print(f"Video saved as: {output_filename}")
