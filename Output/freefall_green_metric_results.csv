@@ -1,0 +1,401 @@
+type,metric_index,metric,run,answer
+oneshot,1,Diameter of the ball in pixel,1,10.0
+oneshot,1,Diameter of the ball in pixel,2,50.0
+oneshot,1,Diameter of the ball in pixel,3,50.0
+oneshot,1,Diameter of the ball in pixel,4,50.0
+oneshot,1,Diameter of the ball in pixel,5,50.0
+oneshot,1,Diameter of the ball in pixel,6,15.0
+oneshot,1,Diameter of the ball in pixel,7,50.0
+oneshot,1,Diameter of the ball in pixel,8,25.0
+oneshot,1,Diameter of the ball in pixel,9,50.0
+oneshot,1,Diameter of the ball in pixel,10,15.0
+oneshot,1,Diameter of the ball in pixel,11,20.5
+oneshot,1,Diameter of the ball in pixel,12,30.0
+oneshot,1,Diameter of the ball in pixel,13,20.0
+oneshot,1,Diameter of the ball in pixel,14,25.0
+oneshot,1,Diameter of the ball in pixel,15,15.0
+oneshot,1,Diameter of the ball in pixel,16,15.0
+oneshot,1,Diameter of the ball in pixel,17,50.0
+oneshot,1,Diameter of the ball in pixel,18,15.0
+oneshot,1,Diameter of the ball in pixel,19,15.5
+oneshot,1,Diameter of the ball in pixel,20,30.0
+oneshot,1,Diameter of the ball in pixel,21,50.0
+oneshot,1,Diameter of the ball in pixel,22,14.0
+oneshot,1,Diameter of the ball in pixel,23,30.0
+oneshot,1,Diameter of the ball in pixel,24,50.0
+oneshot,1,Diameter of the ball in pixel,25,50.0
+oneshot,1,Diameter of the ball in pixel,26,15.0
+oneshot,1,Diameter of the ball in pixel,27,15.0
+oneshot,1,Diameter of the ball in pixel,28,50.0
+oneshot,1,Diameter of the ball in pixel,29,50.0
+oneshot,1,Diameter of the ball in pixel,30,15.5
+oneshot,1,Diameter of the ball in pixel,31,15.0
+oneshot,1,Diameter of the ball in pixel,32,15.0
+oneshot,1,Diameter of the ball in pixel,33,30.0
+oneshot,1,Diameter of the ball in pixel,34,14.5
+oneshot,1,Diameter of the ball in pixel,35,10.0
+oneshot,1,Diameter of the ball in pixel,36,50.0
+oneshot,1,Diameter of the ball in pixel,37,15.0
+oneshot,1,Diameter of the ball in pixel,38,16.0
+oneshot,1,Diameter of the ball in pixel,39,15.0
+oneshot,1,Diameter of the ball in pixel,40,50.0
+oneshot,1,Diameter of the ball in pixel,41,20.5
+oneshot,1,Diameter of the ball in pixel,42,30.5
+oneshot,1,Diameter of the ball in pixel,43,20.0
+oneshot,1,Diameter of the ball in pixel,44,50.0
+oneshot,1,Diameter of the ball in pixel,45,50.0
+oneshot,1,Diameter of the ball in pixel,46,15.0
+oneshot,1,Diameter of the ball in pixel,47,50.0
+oneshot,1,Diameter of the ball in pixel,48,15.2
+oneshot,1,Diameter of the ball in pixel,49,15.0
+oneshot,1,Diameter of the ball in pixel,50,15.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,1,50.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,2,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,3,200.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,4,150.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,5,200.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,6,50.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,7,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,8,150.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,9,300.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,10,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,11,150.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,12,150.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,13,50.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,14,200.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,15,50.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,16,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,17,400.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,18,200.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,19,120.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,20,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,21,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,22,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,23,150.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,24,150.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,25,200.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,26,30.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,27,30.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,28,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,29,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,30,120.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,31,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,32,30.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,33,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,34,76.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,35,50.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,36,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,37,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,38,320.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,39,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,40,150.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,41,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,42,150.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,43,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,44,200.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,45,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,46,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,47,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,48,100.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,49,50.0
+oneshot,2,Original position of the ball's center at t=0 in pixel,50,75.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,1,5.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,2,20.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,3,20.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,4,30.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,5,20.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,6,30.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,7,10.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,8,10.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,9,40.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,10,30.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,11,40.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,12,10.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,13,10.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,14,50.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,15,30.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,16,20.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,17,10.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,18,3.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,19,30.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,20,10.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,21,20.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,22,30.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,23,20.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,24,30.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,25,10.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,26,10.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,27,12.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,28,30.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,29,40.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,30,30.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,31,30.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,32,10.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,33,10.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,34,4.2
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,35,5.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,36,40.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,37,30.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,38,32.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,39,30.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,40,30.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,41,15.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,42,5.4
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,43,15.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,44,10.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,45,10.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,46,30.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,47,20.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,48,10.5
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,49,3.0
+oneshot,3,Change of pixels of the ball moved between t=0 s and t=0.2 s,50,30.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,1,10.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,2,30.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,3,25.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,4,35.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,5,30.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,6,25.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,7,12.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,8,15.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,9,45.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,10,35.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,11,45.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,12,15.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,13,15.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,14,60.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,15,35.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,16,25.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,17,15.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,18,2.6
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,19,45.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,20,10.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,21,40.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,22,30.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,23,18.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,24,40.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,25,15.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,26,20.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,27,18.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,28,40.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,29,50.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,30,10.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,31,35.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,32,12.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,33,15.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,34,3.7
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,35,6.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,36,60.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,37,40.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,38,64.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,39,35.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,40,40.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,41,18.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,42,6.2
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,43,18.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,44,15.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,45,20.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,46,25.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,47,30.0
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,48,13.8
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,49,3.6
+oneshot,4,Change of pixels of the ball moved between t=0.2 and t=0.4 s,50,28.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),1,25.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),2,100.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),3,100.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),4,150.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),5,100.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),6,150.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),7,50.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),8,50.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),9,200.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),10,150.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),11,200.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),12,50.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),13,50.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),14,250.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),15,150.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),16,100.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),17,50.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),18,15.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),19,150.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),20,50.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),21,100.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),22,150.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),23,100.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),24,150.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),25,50.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),26,50.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),27,60.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),28,150.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),29,200.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),30,150.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),31,150.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),32,50.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),33,50.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),34,13.5
+oneshot,5,Velocity at t=0.2 s (pixel/s),35,25.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),36,200.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),37,150.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),38,160.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),39,150.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),40,150.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),41,75.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),42,27.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),43,75.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),44,50.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),45,50.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),46,150.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),47,100.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),48,52.5
+oneshot,5,Velocity at t=0.2 s (pixel/s),49,15.0
+oneshot,5,Velocity at t=0.2 s (pixel/s),50,150.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),1,50.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),2,150.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),3,125.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),4,175.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),5,150.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),6,125.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),7,60.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),8,75.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),9,225.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),10,175.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),11,225.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),12,75.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),13,75.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),14,300.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),15,175.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),16,125.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),17,75.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),18,13.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),19,225.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),20,50.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),21,200.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),22,150.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),23,90.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),24,200.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),25,75.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),26,100.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),27,90.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),28,200.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),29,250.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),30,50.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),31,175.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),32,60.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),33,75.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),34,11.2
+oneshot,6,Velocity at t=0.4 s (pixel/s),35,30.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),36,300.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),37,200.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),38,320.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),39,175.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),40,200.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),41,90.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),42,31.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),43,90.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),44,75.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),45,100.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),46,125.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),47,150.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),48,69.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),49,18.0
+oneshot,6,Velocity at t=0.4 s (pixel/s),50,140.0
+oneshot,7,Acceleration of the ball (pixel/s^2),1,125.0
+oneshot,7,Acceleration of the ball (pixel/s^2),2,250.0
+oneshot,7,Acceleration of the ball (pixel/s^2),3,125.0
+oneshot,7,Acceleration of the ball (pixel/s^2),4,125.0
+oneshot,7,Acceleration of the ball (pixel/s^2),5,250.0
+oneshot,7,Acceleration of the ball (pixel/s^2),6,-125.0
+oneshot,7,Acceleration of the ball (pixel/s^2),7,50.0
+oneshot,7,Acceleration of the ball (pixel/s^2),8,125.0
+oneshot,7,Acceleration of the ball (pixel/s^2),9,125.0
+oneshot,7,Acceleration of the ball (pixel/s^2),10,500.0
+oneshot,7,Acceleration of the ball (pixel/s^2),11,125.0
+oneshot,7,Acceleration of the ball (pixel/s^2),12,125.0
+oneshot,7,Acceleration of the ball (pixel/s^2),13,125.0
+oneshot,7,Acceleration of the ball (pixel/s^2),14,500.0
+oneshot,7,Acceleration of the ball (pixel/s^2),15,125.0
+oneshot,7,Acceleration of the ball (pixel/s^2),16,125.0
+oneshot,7,Acceleration of the ball (pixel/s^2),17,125.0
+oneshot,7,Acceleration of the ball (pixel/s^2),18,-10.0
+oneshot,7,Acceleration of the ball (pixel/s^2),19,375.0
+oneshot,7,Acceleration of the ball (pixel/s^2),20,0.0
+oneshot,7,Acceleration of the ball (pixel/s^2),21,500.0
+oneshot,7,Acceleration of the ball (pixel/s^2),22,0.0
+oneshot,7,Acceleration of the ball (pixel/s^2),23,-50.0
+oneshot,7,Acceleration of the ball (pixel/s^2),24,250.0
+oneshot,7,Acceleration of the ball (pixel/s^2),25,125.0
+oneshot,7,Acceleration of the ball (pixel/s^2),26,250.0
+oneshot,7,Acceleration of the ball (pixel/s^2),27,150.0
+oneshot,7,Acceleration of the ball (pixel/s^2),28,250.0
+oneshot,7,Acceleration of the ball (pixel/s^2),29,250.0
+oneshot,7,Acceleration of the ball (pixel/s^2),30,-500.0
+oneshot,7,Acceleration of the ball (pixel/s^2),31,125.0
+oneshot,7,Acceleration of the ball (pixel/s^2),32,100.0
+oneshot,7,Acceleration of the ball (pixel/s^2),33,125.0
+oneshot,7,Acceleration of the ball (pixel/s^2),34,-11.5
+oneshot,7,Acceleration of the ball (pixel/s^2),35,50.0
+oneshot,7,Acceleration of the ball (pixel/s^2),36,500.0
+oneshot,7,Acceleration of the ball (pixel/s^2),37,250.0
+oneshot,7,Acceleration of the ball (pixel/s^2),38,800.0
+oneshot,7,Acceleration of the ball (pixel/s^2),39,125.0
+oneshot,7,Acceleration of the ball (pixel/s^2),40,250.0
+oneshot,7,Acceleration of the ball (pixel/s^2),41,75.0
+oneshot,7,Acceleration of the ball (pixel/s^2),42,20.0
+oneshot,7,Acceleration of the ball (pixel/s^2),43,75.0
+oneshot,7,Acceleration of the ball (pixel/s^2),44,250.0
+oneshot,7,Acceleration of the ball (pixel/s^2),45,250.0
+oneshot,7,Acceleration of the ball (pixel/s^2),46,-125.0
+oneshot,7,Acceleration of the ball (pixel/s^2),47,250.0
+oneshot,7,Acceleration of the ball (pixel/s^2),48,82.5
+oneshot,7,Acceleration of the ball (pixel/s^2),49,15.0
+oneshot,7,Acceleration of the ball (pixel/s^2),50,-50.0
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",1,0.98
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",2,0.5
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",3,0.5
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",4,0.5
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",5,0.5
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",6,1.5
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",7,0.5
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",8,0.025
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",9,0.51
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",10,0.03
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",11,0.5
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",12,0.3
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",13,0.2
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",14,0.025
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",15,0.15
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",16,1.5
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",17,0.5
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",18,0.15
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",19,0.4
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",20,0.306
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",21,0.5
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",22,1.4
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",23,0.31
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",24,0.51
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",25,0.51
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",26,1.5
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",27,0.15
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",28,0.5
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",29,0.5
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",30,0.15
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",31,0.15
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",32,0.015
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",33,0.3
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",34,0.147
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",35,0.98
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",36,0.51
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",37,0.15
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",38,0.163
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",39,0.152
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",40,0.51
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",41,0.052
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",42,0.31
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",43,0.204
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",44,0.51
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",45,0.5
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",46,1.53
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",47,0.5
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",48,0.15
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",49,0.15
+oneshot,8,"Assuming acceleration is 9.8 m/s^2 in reality, what is the diameter of the ball in the real world (metres)",50,0.15
